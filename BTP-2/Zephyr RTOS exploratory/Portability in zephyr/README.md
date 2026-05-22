@@ -1,0 +1,2 @@
+- This pdf contains a documentation of what I have been able to learn about Zephyr's portability feature during the BTP. 
+- This will be useful for beginners to familiarize with how to setup device tree overlays for their own projects. - It uses the example of setting up ADCs on a rpi pico running on Zephyr RTOS
