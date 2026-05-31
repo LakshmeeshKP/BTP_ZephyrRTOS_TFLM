@@ -2,7 +2,5 @@
 # SPDX-License-Identifier: Apache-2.0
 
 config BOARD_RPI_PICO_RP2040_W
-	bool "Raspberry Pi Pico W"
 	select SOC_RP2040
-	select BOARD_RPI_PICO
     
